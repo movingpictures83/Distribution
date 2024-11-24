@@ -1,0 +1,2 @@
+Prefix plugins/Distribution/example/
+Plugin Distribution inputfile minexpress.rds outputfile distribution.pdf
